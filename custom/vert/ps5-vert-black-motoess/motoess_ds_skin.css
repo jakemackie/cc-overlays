@@ -59,7 +59,7 @@ body {
 } .ds4 .quadrant { 
     display: none; 
 } .ds4 .back, .ds4 .start {
-    background: url(https://github.com/jakemackie/cc-overlays/blob/main/custom/vert/ps5-vert-black-motoess/assets/ds4_pads.png);
+    background: url(https://github.com/jakemackie/cc-overlays/blob/main/custom/vert/ps5-vert-black-motoess/assets/ds4_dpad.png);
     width: 23px;
     height: 37px;
     margin-top: -8px;
