@@ -1,0 +1,1 @@
+Made by [Jake](https://github.com/jakemackie) & [Motoess](https://github.com/Motoess). These are freely available custom controller overlays used with [Gamepad Viewer](https://gamepadviewer.com/). Please credit this repository when asked for sources.
